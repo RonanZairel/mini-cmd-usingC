@@ -38,12 +38,12 @@ The program also **handles erroneous inputs gracefully**, continuously prompting
 ## 🚀 How to Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/RonanZairel/mini-cmd-usingC.git
 2. Navigate to the project folder:
-  cd your-repo-name
+   cd mini-cmd-usingC
 
 3. Compile the program:
-  gcc shell.c -o shell
-
+  gcc minicmd.c -o minicmd
+   
 4. Run the shell:
-  ./shell
+   ./minicmd.exe  
